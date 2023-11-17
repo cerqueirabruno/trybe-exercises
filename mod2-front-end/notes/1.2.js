@@ -92,7 +92,8 @@ new Promise((resolve, reject) => {
 
 /*
 
-  FETCH
+  ========== FETCH ==========
+
   - é uma api do javascript que serve para fazermos requisições http. ela é bem mais
   simples de usar do que o objeto xmlhttprequest;
 
