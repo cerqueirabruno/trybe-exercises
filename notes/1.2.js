@@ -104,3 +104,21 @@ new Promise((resolve, reject) => {
   - config: objeto com as configurações da requisição;
 
 */
+
+async function teste(params) {
+  const resultado = await fetch(URL)
+    .then((response) => { response.json() })
+    .then((data) => { console.log(data) })
+}
+
+/*
+
+  async
+  - é uma palavra chave que é usada antes de uma função para indicar que ela é assíncrona;
+
+  await
+  - é uma palavra chave que só pode ser usada dentro de funções async. ela pausa a execução da
+  função async e espera pela resolução da promise passada, e então retoma a execução da função
+  async e retorna o valor resolvido.
+
+*/

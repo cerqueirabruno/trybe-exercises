@@ -68,6 +68,9 @@
   "type": "module"
   - define que o projeto utilizará módulos do ES6 (precisa ser adicionado no package.json);
 
+  <script type="module" src="./src/main.js"></script>
+  - script que importa módulos do ES6;
+
 */
 
 /* 
