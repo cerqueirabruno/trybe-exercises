@@ -1,3 +1,21 @@
+/* 
+
+  Introdução
+    O que vamos aprender?
+    Por que isso é importante?
+    Entrando na emocionante jornada React
+  Criando um projeto com React
+    O que é TypeScript?
+    Criando um projeto React com Vite
+    Estrutura do projeto
+    Outras formas de criar projetos React
+  Configurando o projeto
+    
+
+
+*/
+
+
 /*
 
   inicializar e estruturar um projeto em react com typescript.
