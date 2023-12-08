@@ -33,7 +33,7 @@
   export function sumAllNumbers(list: number[]) {
     return list.reduce((num, sum) => num + sum, 0);
   }
-  
+
   = declarar array
   let arrayOfStrings: string[];
 
@@ -56,6 +56,17 @@
   }
 
   let myUser: User;
+
+  ========== EXECUTAR O TYPESCRIPT - type-checking ==========
+  npx tsc
+
+
+  ========== PROPS ==========
+  
+
+
+  ==========  ==========
+
 
 
 
@@ -87,3 +98,7 @@
   - 
 
 */
+
+/* ( ) Tipos por inferência.
+( ) Tipos por definição.
+( ) Tipos próprios. */
