@@ -1,5 +1,0 @@
-/* 
-
-  INTRODUÇÃO AO REACT.JS
-
-*/
