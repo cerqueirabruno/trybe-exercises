@@ -1,38 +1,44 @@
-/*
+/* 
 
-  configuração de ambiente e javascript assíncrono
-  react com typescript
-  fundamentos
-  hooks
-  estado, props e ciclo de vida
-  formulários
-  react router
-  context api
-  metodologias ágeis
-  testes automatizados com react testing library
-  gerenciamento de estado global
+  ==================== CONFIGURAÇÃO DE AMBIENTE (NPM OU VITE) ====================
+
+  INICIANDO UM PROJETO COM 'NPM' (O VITE JA CRIA UM PROJETO COM AS CONFIGURAÇÕES ABAIXO);
+
+
+  - index.html
+  - npm init -y
+  - configuração de pastas
+    - src (código fonte)
+    - dist (código compilado)
+  - <script type="module" src="./src/main.js"></script>
+
+  configurando o GIT
+  - git init
+  - git add .
+  - git commit -m "initial commit"
+  - gitignoreW
+
+  instalando bibliotecas externas
+  - npm install nanoid
+  - import { nanoid } from 'nanoid'
+
+  package.json
+  - "type": "module"
+
+  bundle e web server
+  - npm install vite (bundler e web server)
+  - npm run dev (inicia o servidor de desenvolvimento
+  - npm run build (compila o projeto)
+
+  - npm create vite@latest
+  - npm create vite .
+  
 
 */
 
-
 /*
 
-  >>>>> AMBIENTE DE DESENVOLVIMENTO <<<<<
-
-  iniciar um projeto com npm;
-  configurar pastas;
-  iniciar controle de versionamento com git;
-  instalar bibliotecas externas;
-  instalar um bundler e web server (vite);
-  utilizar npm, npx e npm scripts;
-  configurar eslint no projeto;
-  utilizar css no seu projeto;
-
-*/
-
-/*
-
-  >>>>> NPM <<<<<
+  NPM 
 
   o que é NPM?
   - (Node Package Manager) é um gerenciador de pacotes para o Node.js. Ele é usado para instalar
@@ -49,6 +55,8 @@
 
   npm install nanoid
   - instala a biblioteca nanoid;
+
+  ====================
 
   node_modules
   - pasta onde ficam as bibliotecas instaladas;
