@@ -1,7 +1,10 @@
 # README EM CONSTRUÇÂO 🔨
 
+
+# Repositório Trybe! <br> Repository Trybe!
 ## Trybe | Bruno De Oliveira Cerqueira | Turma 37
-Esse repositório é exclusivo durante minha formação na [Trybe](https://www.betrybe.com/)
+Olá!
+Aqui, ficará todos os meus resumo e atividades em código que foram desenvolvidas durante minha formação na [Trybe](https://www.betrybe.com/)
 
 ## TECNOLOGIAS
 <div>
