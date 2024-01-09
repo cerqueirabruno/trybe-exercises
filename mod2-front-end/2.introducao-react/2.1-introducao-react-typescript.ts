@@ -1,12 +1,10 @@
-/* 
+// inicializar e estruturar um projeto em react com typescript.
+// definir jsx como maneira de escrever tags html em javascript.
+// criar elementos jsx.
+// criar componentes react.
+// utilizar componentes react.
 
-inicializar e estruturar um projeto em react com typescript.
-definir jsx como maneira de escrever tags html em javascript.
-criar elementos jsx.
-criar componentes react.
-utilizar componentes react.
 
-*/
 
 /* 
 
@@ -23,6 +21,15 @@ npm run dev
 package.json > scripts > dev > "vite --open"
 
 */
+
+
+
+
+
+
+
+
+
 
 /* 
 
