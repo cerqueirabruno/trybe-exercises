@@ -45,6 +45,18 @@ $ npm run test
 
 //////////
 
+// 3A (agir, acessar, aferir)
+// getBy... = retorna 1 elemento ou erro
+// getByLabelText = pegue pelo texto da label
+// getByRole = pegue todos pela função (ex: button, input) (pode receber um segundo parametro para pegar o texto do elemento)
+// getAllByRole = retorna todos os elementos que tem a função (ex: button, input, etc)
+// toHaveLength = verifica o tamanho de um array
+// getByTestId = procura pelo atributo data-testid
+
+//////////
+
+userEvent: testar o comportamento da pessoa usuária;
+
 
 
 
